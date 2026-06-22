@@ -1,0 +1,18 @@
+{
+  "name": "xxxx-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "xxxx 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "xxxx",
+      "source": "./plugins/xxxx",
+      "description": "xxxx —— 由 CruiseSkillBridge 一键发布的MCP。",
+      "version": "0.1.0"
+    }
+  ]
+}
